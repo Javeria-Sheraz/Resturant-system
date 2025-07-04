@@ -35,7 +35,7 @@ This is a simple **command-line based restaurant ordering system** built using P
 python restaurant_ordering.py
 ```
 
-4. Follow on-screen instructions to:
+4. Follow on-screen instructions
 
 
 
