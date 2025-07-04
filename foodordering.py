@@ -121,5 +121,9 @@ customer.place_order(menu)
 customer.show_summary()
 print("\nThank you for ordering! Visit again.")
 
-
-
+#SUMMARY
+#`menu_item` – Base class for all menu items
+#`veg_item` – Subclass for vegetarian dishes
+#`international_item` – Subclass for international items (+20Rs extra)
+#`order` – Handles items added/removed and bill generation
+#`Customer` – Stores customer name and manages order placement
